@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/pajuka"><img src="https://api.daily.dev/devcards/54dc1fb780ad4d749398755b044b7a23.png?r=f1g" width="400" alt="Patryk Jucha's Dev Card"/></a>
+
 <!--
 **pajuka/pajuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
