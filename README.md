@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/pajuka"><img src="https://api.daily.dev/devcards/54dc1fb780ad4d749398755b044b7a23.png?r=f1g" width="400" alt="Patryk Jucha's Dev Card"/></a>
+<a href="https://app.daily.dev/pajuka"><img src="https://api.daily.dev/devcards/54dc1fb780ad4d749398755b044b7a23.png?r=d4c" width="400" alt="Patryk Jucha's Dev Card"/></a>
 
 - 🔭 I’m currently working on - some Websites
 - 🌱 I’m currently learning - UX principles
