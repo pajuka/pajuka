@@ -9,3 +9,5 @@
 - 💬 Ask me about - angular, component libraries, design systems and domain trading, anytime
 - 😄 Pronouns: enthusiastic, positive, hopeful, nerdy, analytically, pragmatic, unpretentiously
 - ⚡ Fun fact: I often do many things at the same time, but im not good in doing things parallel :)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
